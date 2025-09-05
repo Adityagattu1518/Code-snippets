@@ -1,10 +1,13 @@
-# 📚 Code Snippets
+# Code Snippets Repository
 
-A collection of useful code snippets in different languages for quick reference.
+This repository contains small code snippets in different programming languages.
 
-## 🚀 Languages
+## Files
 
-- *Java* → [View snippets](hello/)
-- *Python* → [View snippets](evenodd/)
+- [DOM.js](./DOM.js) – JavaScript file demonstrating DOM manipulation.
+- [evenodd.py](./evenodd.py) – Python program to check whether a number is even or odd.
+- [hello.java](./hello.java) – Java program to print "Hello, World!".
 
 ---
+
+You can click on the links above to view each code file directly.
